@@ -1,0 +1,10 @@
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\bin\Debug\Bergler.Common.ServiceProvider.dll
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\bin\Debug\Bergler.Common.ServiceProvider.pdb
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\obj\Debug\Bergler.Common.ServiceProvider.csprojResolveAssemblyReference.cache
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\obj\Debug\Bergler.Common.ServiceProvider.dll
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\obj\Debug\Bergler.Common.ServiceProvider.pdb
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\bin\Debug\Bergler.Common.Tools.dll
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\bin\Debug\HtmlAgilityPack.dll
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\bin\Debug\Bergler.Common.Tools.pdb
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\worki\OneDrive\07. Bergler\02. Code\Common\Bergler.Common.ServiceProvider\bin\Debug\HtmlAgilityPack.xml
